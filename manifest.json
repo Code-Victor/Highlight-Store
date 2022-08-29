@@ -1,0 +1,6 @@
+{
+  "name": "Highlight Store",
+  "description": "a chrome extension that saves highlights and retreives them on demand",
+  "version": "1.0",
+  "manifest_version": 3
+}
