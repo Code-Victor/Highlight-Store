@@ -1,0 +1,12 @@
+{
+  "name": "highlight-store",
+  "version": "1.0.0",
+  "description": "a chrome to store page highlights and retrieve on demand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["chrome", "extension", "highlight", "highlight-store"],
+  "author": "",
+  "license": "ISC"
+}
